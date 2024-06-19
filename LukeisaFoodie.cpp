@@ -1,5 +1,5 @@
 // problem link : https://codeforces.com/problemset/problem/1704/B
-// tag : brute-force,greedy,implementation
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
